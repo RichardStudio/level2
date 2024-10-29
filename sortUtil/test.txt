@@ -1,0 +1,13 @@
+apple 10
+banana 2
+cherry 15
+date 5
+fig 10
+grape 2
+kiwi 7
+lemon 5
+mango 1
+orange 8
+peach 11
+plum 6
+pear 3
